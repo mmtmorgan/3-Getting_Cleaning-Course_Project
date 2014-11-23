@@ -26,9 +26,8 @@ Here are the main steps to perform:
 1. row bind the test and train data for the 3 datasets
 2. extract the appropriate columns out of the measurement data
 3. column bind the 3 datasets into 1
-4. sdfsdf
+4. name columns appropriately
 
 ## Analysis
 
-vdfvdf
-dfbvdf
+Take the averages for all measurements for each subject and action combination
