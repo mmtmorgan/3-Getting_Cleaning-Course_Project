@@ -1,14 +1,10 @@
 # Getting and Cleaning Data - Course Project - Code Book
 
-This Codebook describes the layout of the final file output by run_analysis.R:
+This Codebook describes the layout of the final file output by run_analysis.R: Columns 3-68 are the average measurements for the subject's action obtained by analyzing the data provided:
 
 ###
 1.	The subject ID number
 2.	The Action measured
-
-All remaining columns are the average measurements for the subject's action obtained by analyzing the data provided
-
-###
 3.	tBodyAcc-mean()-X
 4.	tBodyAcc-mean()-Y
 5.	tBodyAcc-mean()-Z
